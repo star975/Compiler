@@ -1,0 +1,5 @@
+{
+  "name": "Star 975",
+  "description": "An AI-powered Python IDE capable of writing, editing, and simulating code execution using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
